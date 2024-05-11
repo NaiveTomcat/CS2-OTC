@@ -1,0 +1,2 @@
+cs_gamestate==0.0.3
+websocket_client==1.8.0

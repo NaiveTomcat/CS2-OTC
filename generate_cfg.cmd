@@ -1,0 +1,1 @@
+python -m cs_gamestate.utils.make_config "CS2OTC" http://127.0.0.1:55420/gsi --subscribe-to-all
