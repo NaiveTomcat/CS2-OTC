@@ -14,6 +14,8 @@ Python 3.8+
 
 安装requirements.txt中的依赖
 
+OTC控制器，[下载地址](https://github.com/open-toys-controller/open-DGLAB-controller/releases/latest)
+
 ## 使用
 
 1. 安装依赖
